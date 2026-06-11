@@ -75,6 +75,7 @@ idx-ichimoku-ema-backtest/
 ├── run_project.py
 ├── requirements.txt
 ├── project_documentation.pdf
+├── project_presentation.pdf
 └── README.md
 ```
 
