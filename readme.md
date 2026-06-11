@@ -17,6 +17,7 @@ The goal of this project is not to build a perfect trading system. The goal is t
 The first version of the project showed that the strategy is not universally strong across the whole basket. That result is actually useful because it reveals where the strategy works, where it fails, and why additional filtering may be needed.
 
 ## Strategy rules
+<img width="1341" height="593" alt="schematic_diagram" src="https://github.com/user-attachments/assets/3689a01f-1fcc-47b3-b7a8-950041bca5e5" />
 ### Entry
 A long position is opened only when all of the following are true:
 
