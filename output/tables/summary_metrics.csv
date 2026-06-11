@@ -1,0 +1,6 @@
+ticker,total_return_pct,buy_hold_return_pct,annualized_return_pct,annualized_volatility_pct,sharpe_ratio,max_drawdown_pct,total_trades,days_in_market,pct_days_in_market,total_days
+BRPT.JK,824.28,238.31,31.99,32.86,0.974,-48.9,48,586,29.0,2019
+ANTM.JK,80.84,280.55,7.67,30.54,0.251,-66.76,71,581,28.8,2019
+PGAS.JK,27.64,5.54,3.09,24.21,0.128,-36.43,74,672,33.3,2018
+PTBA.JK,8.3,189.4,1.0,23.88,0.042,-50.07,75,697,34.5,2018
+MDKA.JK,-12.59,456.58,-1.67,30.88,-0.054,-65.33,88,728,36.1,2019
