@@ -18,6 +18,7 @@ The first version of the project showed that the strategy is not universally str
 
 ## Strategy rules
 <img width="1341" height="593" alt="schematic_diagram" src="https://github.com/user-attachments/assets/3689a01f-1fcc-47b3-b7a8-950041bca5e5" />
+
 ### Entry
 A long position is opened only when all of the following are true:
 
